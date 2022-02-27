@@ -27,12 +27,13 @@
 | -----------------------|----------------------------|----------------|
 | JavaScript (ES6)       | Webpack                    |SQL, PL/SQL     |
 | React                  | Jest                       |REST            |
-| Redux                  | Git, Github, Github Actions|SOAP            |
-| HTML                   | Eslint                     |JIRA, Confluence|
-| CSS                    | VSCode                     |Agile           |
+| Redux, Redux-Toolkit   | Git, Github, Github Actions|SOAP            |
+| TypeScript             | Eslint                     |JIRA, Confluence|
+| HTML                   | VSCode                     |Agile           |
+| CSS                    |                            |                |
 | DOM API                |                            |                |
 | БЭМ, OOCSS, Atomic CSS |                            |                |
-| Bootstrap              |                            |                |
+| Bootstrap, Material UI |                            |                |
 
 
 ### Знание языков
