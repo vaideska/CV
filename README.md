@@ -48,6 +48,7 @@
 #### Frontend developer
 
 `Backbone.js` `Twig template` `Git` `React` `TypeScript`
+
 Дорабатываю [конструктор ботов](https://www.amocrm.ru/support/digital_pipline/salesbot), с помощью которых пользователи CRM могут автоматизировать ответы клиентам, выполнять действия со сделками, создавать анкеты и многое другое.
 
 ## Яндекс.Практикум (part time)
