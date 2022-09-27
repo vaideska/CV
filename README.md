@@ -44,7 +44,7 @@
 # Опыт работы
 
 ## AmoCRM
-Июль 2021 — по настоящее время
+Июль 2022 — по настоящее время
 #### Frontend developer
 
 `Backbone.js` `Twig template` `Git` `React` `TypeScript`
